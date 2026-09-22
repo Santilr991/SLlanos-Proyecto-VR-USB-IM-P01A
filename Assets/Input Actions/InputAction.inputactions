@@ -1,0 +1,330 @@
+{
+    "version": 1,
+    "name": "InputAction",
+    "maps": [
+        {
+            "name": "VR Control Mano Izquierda",
+            "id": "02104c80-b14b-47c2-8278-d7338b40ee41",
+            "actions": [
+                {
+                    "name": "Menu",
+                    "type": "Button",
+                    "id": "21edf291-d8a6-4ee1-be13-5365d97d451f",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Accion Primaria",
+                    "type": "Button",
+                    "id": "a65718d2-0d1b-4720-ae68-cacd5fec9737",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Accion Secundaria",
+                    "type": "Button",
+                    "id": "731c1a1c-3497-4b4f-8aa7-f48de9a62326",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Disparador",
+                    "type": "Button",
+                    "id": "ebb56eb1-f4a4-45ab-a026-da6930a5012e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Agarrador",
+                    "type": "Button",
+                    "id": "095b22be-370d-4876-8b00-8926115a4c31",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Boton Palanca",
+                    "type": "Button",
+                    "id": "b657ece1-fa5a-48a9-a923-3d516f1cec66",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Palanca Sector Norte",
+                    "type": "Button",
+                    "id": "e1bbe5b6-d84c-4de7-9569-24f5518f10e7",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Palanca Sector Sur",
+                    "type": "Button",
+                    "id": "d5a645d5-4798-4c8f-8155-c903279076c3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Palanca Sector Oeste",
+                    "type": "Button",
+                    "id": "608f5a4d-e5b7-4a02-92b5-c9dacf4b0590",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Palanca Sector Este",
+                    "type": "Button",
+                    "id": "1355ec12-bbb2-4ba9-baa9-fe382a1b67cc",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Palanca Nivel de Inclinacion",
+                    "type": "Button",
+                    "id": "e31b0ed9-37a1-47b4-a2da-e18cd7e30b5d",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Disparador Nivel de Presion",
+                    "type": "Button",
+                    "id": "007634fb-1564-46cc-b51d-ad9ec3cfa1b3",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Agarrador Nivel  de Presion",
+                    "type": "Button",
+                    "id": "fe6fe1c4-78e7-44af-a7a9-8ddb0a26557e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Posicion",
+                    "type": "Button",
+                    "id": "e417d2cb-553d-4760-a8af-26bf3bb7565f",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                },
+                {
+                    "name": "Rotacion",
+                    "type": "Button",
+                    "id": "ccedb073-4030-4343-a6be-a5cfffac721e",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false,
+                    "priority": 0
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "a819f813-a585-4f1e-976c-216c6ba95520",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ec031e5b-f48b-4e55-bf25-2c1c38db8d71",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Accion Primaria",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dd694a1d-3d51-4264-87fa-3db1cbd5ff65",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Accion Secundaria",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "617ab2cc-f163-4741-93dc-b9daf416dc28",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Disparador",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5b2f1ccc-7620-409a-9b98-4f96da402b38",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Agarrador",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "75a69103-48ac-4b6d-bc6f-6e98525b1c8d",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Boton Palanca",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c10d9905-e573-4177-a85e-5341f14c6268",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Palanca Sector Norte",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1b11e6f7-036f-4ffe-870b-8be62a57e92a",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Palanca Sector Sur",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "52afde57-be67-477d-8586-6e225b6d706c",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Palanca Sector Oeste",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "332ac585-b158-4c12-a238-6186fdc8b8dd",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Palanca Sector Este",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "90dfc8b0-5386-4958-b733-ab28a5e00f2f",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Palanca Nivel de Inclinacion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "8240f509-f02a-4fc6-8593-50e9ca23fb07",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Disparador Nivel de Presion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "effe71df-0972-4c76-8ae0-f1b2a267600f",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Agarrador Nivel  de Presion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e31772f5-3c72-4ceb-af19-fa047431832a",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Posicion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ae51a8d7-0bb5-47d1-8a9d-af6470ca2c3f",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Rotacion",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
