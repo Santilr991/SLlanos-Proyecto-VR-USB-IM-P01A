@@ -249,7 +249,18 @@
                 {
                     "name": "",
                     "id": "52afde57-be67-477d-8586-6e225b6d706c",
-                    "path": "",
+                    "path": "<XRController>{LeftHand}/thumbstickDpadLeft",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Palanca Sector Oeste",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4181052f-c25e-47ee-bc71-39fa1ec3b621",
+                    "path": "<Keyboard>/space",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
