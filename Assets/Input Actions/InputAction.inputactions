@@ -8,12 +8,12 @@
             "actions": [
                 {
                     "name": "Menu",
-                    "type": "Button",
+                    "type": "Value",
                     "id": "21edf291-d8a6-4ee1-be13-5365d97d451f",
-                    "expectedControlType": "",
+                    "expectedControlType": "Axis",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": false,
+                    "initialStateCheck": true,
                     "priority": 0
                 },
                 {
@@ -67,6 +67,16 @@
                     "priority": 0
                 },
                 {
+                    "name": "Palanca",
+                    "type": "Value",
+                    "id": "97c73b72-0a69-4a60-9c72-e1ebc7da607f",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true,
+                    "priority": 0
+                },
+                {
                     "name": "Palanca Sector Norte",
                     "type": "Button",
                     "id": "e1bbe5b6-d84c-4de7-9569-24f5518f10e7",
@@ -88,12 +98,12 @@
                 },
                 {
                     "name": "Palanca Sector Oeste",
-                    "type": "Button",
+                    "type": "Value",
                     "id": "608f5a4d-e5b7-4a02-92b5-c9dacf4b0590",
-                    "expectedControlType": "",
+                    "expectedControlType": "Vector2",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": false,
+                    "initialStateCheck": true,
                     "priority": 0
                 },
                 {
@@ -226,6 +236,17 @@
                 },
                 {
                     "name": "",
+                    "id": "2cbc7257-5c98-40fb-9f16-cc5964b9840f",
+                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "interactions": "Sector(directions=8)",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Palanca",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "c10d9905-e573-4177-a85e-5341f14c6268",
                     "path": "",
                     "interactions": "",
@@ -249,7 +270,7 @@
                 {
                     "name": "",
                     "id": "52afde57-be67-477d-8586-6e225b6d706c",
-                    "path": "<XRController>{LeftHand}/thumbstickDpadLeft",
+                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
